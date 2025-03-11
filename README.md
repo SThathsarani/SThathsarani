@@ -14,5 +14,5 @@ Welcome to my GitHub profile! I'm a passionate developer,interested on cybersecu
 
 ## 📂 Projects
 
-- **[SleuthMate](https://github.com/yourusername/SleuthMate)**: A digital forensics tool for malware analysis and cyber threat intelligence (work in progress).
+- **[SleuthMate]**: A digital forensics tool for malware analysis and cyber threat intelligence (work in progress).
 
