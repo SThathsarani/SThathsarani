@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋  
+# Hi there, I'm @SThathsarani 👋  
 
 Welcome to my GitHub profile! I'm a passionate developer,interested on cybersecurity and digital forensics projects. I enjoy learning new technologies, especially in the areas of AI, machine learning, and cybersecurity.
 
